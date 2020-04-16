@@ -142,6 +142,7 @@ export const ScrollableLane = styled.div`
   margin-top: 10px;
   flex-direction: column;
   justify-content: space-between;
+  flex-basis: auto !important;
 `
 
 export const Title = styled.span`
